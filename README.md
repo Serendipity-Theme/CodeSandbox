@@ -22,9 +22,9 @@ Available themes:
 - Midnight
 
 # Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/CodeSandbox/master/morning.png)
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/CodeSandbox/master/sunset.png)
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/CodeSandbox/master/midnight.png)
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/CodeSandbox/main/morning.png)
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/CodeSandbox/main/sunset.png)
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/CodeSandbox/main/midnight.png)
 
 
 Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
